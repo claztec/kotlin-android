@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppKotlin</string>
+    <string name="action_settings">Settings</string>
+</resources>
